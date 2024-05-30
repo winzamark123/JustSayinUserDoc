@@ -10,16 +10,16 @@ init-properties:
 [init-project] Initializing project
 
 check-arg:
-   [delete] Deleting directory /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
-    [mkdir] Created dir: /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
+   [delete] Deleting directory /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
+    [mkdir] Created dir: /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
 
 log-arg:
      [echo] *****************************************************************
-     [echo] * basedir = /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1
-     [echo] * dita.dir = /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1
+     [echo] * basedir = /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1
+     [echo] * dita.dir = /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1
      [echo] * transtype = html5-bootstrap
-     [echo] * tempdir = /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
-     [echo] * outputdir = /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap
+     [echo] * tempdir = /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
+     [echo] * outputdir = /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap
      [echo] * clean.temp = true
      [echo] * DITA-OT version = 3.6.1
      [echo] * XML parser = Xerces
@@ -27,40 +27,40 @@ log-arg:
      [echo] * collator = ICU
      [echo] *****************************************************************
      [echo] #Ant properties
-     [echo] #Wed May 29 23:36:02 GMT 2024
-     [echo] dita.plugin.org.dita.base.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.base
-     [echo] dita.temp.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
-     [echo] args.xsl=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [echo] #Thu May 30 03:50:08 GMT 2024
+     [echo] dita.plugin.org.dita.base.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.base
+     [echo] dita.temp.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
+     [echo] args.xsl=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
      [echo] args.html5.toc=toc
      [echo] args.grammar.cache=yes
-     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.xdita.v0_2_2
-     [echo] dita.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1
-     [echo] dita.plugin.org.dita.pdf2.axf.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.axf
-     [echo] args.hdf=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bootstrap.hdf.xml
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.axf
+     [echo] args.hdf=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bootstrap.hdf.xml
      [echo] args.copycss=yes
      [echo] args.csspath=css
-     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_3
-     [echo] dita.plugin.org.lwdita.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.lwdita
-     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v2_0
-     [echo] args.hdr=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bs-navbar-default.hdr.xml
-     [echo] dita.plugin.org.dita.htmlhelp.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.htmlhelp
-     [echo] dita.output.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap
-     [echo] dita.plugin.org.dita.eclipsehelp.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.eclipsehelp
-     [echo] dita.plugin.org.dita.normalize.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.normalize
-     [echo] dita.plugin.org.dita.xhtml.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.xhtml
-     [echo] dita.plugin.org.dita.pdf2.xep.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.xep
-     [echo] dita.plugin.org.dita.specialization.dita11.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.specialization.dita11
-     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_2
-     [echo] dita.plugin.org.dita.pdf2.fop.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.fop
-     [echo] args.input=/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/JustSayin_Map.ditamap
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v2_0
+     [echo] args.hdr=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bs-navbar-default.hdr.xml
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.htmlhelp
+     [echo] dita.output.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.fop
+     [echo] args.input=/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/JustSayin_Map.ditamap
      [echo] args.xml.systemid.set=yes
-     [echo] dita.plugin.org.dita.pdf2.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2
-     [echo] dita.plugin.org.dita.html5.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5
+     [echo] dita.plugin.org.dita.pdf2.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.dita.html5.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5
      [echo] dita.html5.reloadstylesheet=false
-     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.techcomm.v2_0
-     [echo] dita.plugin.org.dita.index.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.index
-     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap
-     [echo] dita.plugin.fox.jason.extend.css.dir=/home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/fox.jason.extend.css
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] dita.plugin.org.dita.index.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.index
+     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap
+     [echo] dita.plugin.fox.jason.extend.css.dir=/home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/fox.jason.extend.css
      [echo] dita.extname=dita
      [echo] *****************************************************************
 
@@ -68,7 +68,7 @@ build-init:
 
 preprocess.init:
      [echo] *****************************************************************
-     [echo] * input = /home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/JustSayin_Map.ditamap
+     [echo] * input = /home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/JustSayin_Map.ditamap
      [echo] * resources = ${args.resources}
      [echo] *****************************************************************
 
@@ -76,41 +76,43 @@ ditaval-merge:
 
 gen-list:
  [gen-list] Using Xerces grammar pool for DTD and schema caching.
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/JustSayin_Map.ditamap
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Reference/Glossary_Of_Terms.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/How_to_add__remove_friends.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Picking_your_preferred_Categories.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Setting_up_Notifications_for_JustSayin.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
- [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Topics/What_is_JustSayin.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/JustSayin_Map.ditamap
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Reference/Glossary_Of_Terms.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/How_to_add__remove_friends.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Picking_your_preferred_Categories.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Setting_up_Notifications_for_JustSayin.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Topics/Privacy_Policy_For_JustSayin.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Topics/What_is_JustSayin.dita
  [gen-list] Serializing job specification
 
 debug-filter:
    [filter] Using Xerces grammar pool for DTD and schema caching.
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Topics/What_is_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/What_is_JustSayin.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Reference/Glossary_Of_Terms.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Reference/Glossary_Of_Terms.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Picking_your_preferred_Categories.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Picking_your_preferred_Categories.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/JustSayin_Map.ditamap to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Setting_up_Notifications_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_up_Notifications_for_JustSayin.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
-   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/source/0/Tasks/How_to_add__remove_friends.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/How_to_add__remove_friends.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Topics/What_is_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/What_is_JustSayin.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Topics/Privacy_Policy_For_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Privacy_Policy_For_JustSayin.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Reference/Glossary_Of_Terms.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Reference/Glossary_Of_Terms.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Picking_your_preferred_Categories.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Picking_your_preferred_Categories.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/JustSayin_Map.ditamap to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Setting_up_Notifications_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_up_Notifications_for_JustSayin.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/source/0/Tasks/How_to_add__remove_friends.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/How_to_add__remove_friends.dita
 
 mapref-check:
 
 mapref:
-   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
 
 branch-filter:
-[branch-filter] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
+[branch-filter] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
 
 keyref:
-   [mapref] Transforming into /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
-   [mapref] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mapref.xsl
-   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
+   [mapref] Transforming into /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
+   [mapref] Loading stylesheet /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
 
 copy-to:
 
@@ -123,24 +125,25 @@ profile-check:
 profile:
 
 topic-fragment:
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/What_is_JustSayin.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Reference/Glossary_Of_Terms.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Picking_your_preferred_Categories.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_up_Notifications_for_JustSayin.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
-[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/How_to_add__remove_friends.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/What_is_JustSayin.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Privacy_Policy_For_JustSayin.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Reference/Glossary_Of_Terms.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Picking_your_preferred_Categories.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_up_Notifications_for_JustSayin.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/How_to_add__remove_friends.dita
 
 chunk-check:
 
 chunk:
-    [chunk] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
+    [chunk] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
 
 move-meta-entries:
-[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
-[move-meta] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mappull.xsl
-[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
+[move-meta] Loading stylesheet /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
 
 maplink-check:
 
@@ -149,28 +152,29 @@ maplink:
 topicpull-check:
 
 topicpull:
-[topicpull] Transforming into /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
-[topicpull] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/What_is_JustSayin.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Reference/Glossary_Of_Terms.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Picking_your_preferred_Categories.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_up_Notifications_for_JustSayin.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
-[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/How_to_add__remove_friends.dita
+[topicpull] Transforming into /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
+[topicpull] Loading stylesheet /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/What_is_JustSayin.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Privacy_Policy_For_JustSayin.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Reference/Glossary_Of_Terms.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Picking_your_preferred_Categories.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_up_Notifications_for_JustSayin.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/How_to_add__remove_friends.dita
 
 clean-map-check:
 
 clean-map:
-[clean-map] Transforming into /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515
-[clean-map] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
-[clean-map] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap
+[clean-map] Transforming into /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277
+[clean-map] Loading stylesheet /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap
 
 clean-preprocess:
 
 copy-image:
-     [copy] Copying 21 files to /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap
+     [copy] Copying 21 files to /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap
 
 copy-html:
 
@@ -185,7 +189,7 @@ extend.css.init:
 dita-bootstrap.css.copy:
 
 extend.css.copy:
-     [copy] Copying 1 file to /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/css
+     [copy] Copying 1 file to /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/css
 
 extend.css:
 
@@ -194,63 +198,65 @@ preprocess:
 html5.topic.init:
 
 html5.image-metadata:
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/What_is_JustSayin.dita
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/HomeWidget.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/LandingTitle.png
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Reference/Glossary_Of_Terms.dita
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Picking_your_preferred_Categories.dita
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/PickingCategories/CategoriesInit.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/PickingCategories/CategoriesSelected.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/PickingCategories/CategoriesSearch.png
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_up_Notifications_for_JustSayin.dita
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/NotificationSettings/NotificationSettings.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/NotificationSettings/JustSayinSettings.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/NotificationSettings/AllowNotifications.png
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/Widgets/HomePageAddingWidgetAfter.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/Widgets/HomePageAddingToWidgetFirstTime.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/Widgets/SearchingWidget.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/Widgets/WidgetSmall.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/Widgets/SelectingWidget.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/Widgets/WidgetOnScreen.png
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/LoginSignup/LoginInit.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/LoginSignup/SignupInit.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/LoginSignup/SignupFilled.png
-[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/How_to_add__remove_friends.dita
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/FriendsPage/FriendsInit.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/FriendsPage/AddingFriends.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/FriendsPage/RemovingFriends.png
-[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Images/FriendsPage/FriendsPageAddedFriends.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/What_is_JustSayin.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/HomeWidget.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/LandingTitle.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Privacy_Policy_For_JustSayin.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Reference/Glossary_Of_Terms.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Picking_your_preferred_Categories.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/PickingCategories/CategoriesInit.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/PickingCategories/CategoriesSelected.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/PickingCategories/CategoriesSearch.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_up_Notifications_for_JustSayin.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/NotificationSettings/NotificationSettings.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/NotificationSettings/JustSayinSettings.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/NotificationSettings/AllowNotifications.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/Widgets/HomePageAddingWidgetAfter.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/Widgets/HomePageAddingToWidgetFirstTime.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/Widgets/SearchingWidget.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/Widgets/WidgetSmall.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/Widgets/SelectingWidget.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/Widgets/WidgetOnScreen.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/LoginSignup/LoginInit.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/LoginSignup/SignupInit.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/LoginSignup/SignupFilled.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/How_to_add__remove_friends.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/FriendsPage/FriendsInit.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/FriendsPage/AddingFriends.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/FriendsPage/RemovingFriends.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Images/FriendsPage/FriendsPageAddedFriends.png
 
 html5.topics.common:
 
 html5.topics.common.inner:
-     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap
-     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/What_is_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Topics/What_is_JustSayin.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Reference/Glossary_Of_Terms.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Reference/Glossary_Of_Terms.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Picking_your_preferred_Categories.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Tasks/Picking_your_preferred_Categories.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_up_Notifications_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Tasks/Setting_up_Notifications_for_JustSayin.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Tasks/Logging_In_and_Signing_Up_for_JustSayin.html
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/Tasks/How_to_add__remove_friends.dita to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/Tasks/How_to_add__remove_friends.html
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/What_is_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Topics/What_is_JustSayin.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Privacy_Policy_For_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Topics/Privacy_Policy_For_JustSayin.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Reference/Glossary_Of_Terms.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Reference/Glossary_Of_Terms.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Picking_your_preferred_Categories.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Tasks/Picking_your_preferred_Categories.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Topics/Daily_Inspiration_Enhancing_Everyday_Life_with_JustSayin.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_up_Notifications_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Tasks/Setting_up_Notifications_for_JustSayin.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Tasks/Setting_Up_the_JustSayin_Widget_on_Your_Home_Screen.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/Logging_In_and_Signing_Up_for_JustSayin.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Tasks/Logging_In_and_Signing_Up_for_JustSayin.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/Tasks/How_to_add__remove_friends.dita to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/Tasks/How_to_add__remove_friends.html
 
 html5.topic:
 
 html5.map.init:
 
 html5.map.toc:
-     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap
-     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot13553571634442641106/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5/xsl/map2html5-cover.xsl
-     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-temp9516585671801847515/JustSayin_Map.ditamap to file:/home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/toc.html
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot3694115554532688136/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5/xsl/map2html5-cover.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-temp2799842093323157277/JustSayin_Map.ditamap to file:/home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/toc.html
 
 html5.map:
 
 html5.css:
-     [copy] Copying 2 files to /home/dita-ot/dita-ot/dita-ot13553571634442641106/ot-output/html5-bootstrap/css
+     [copy] Copying 2 files to /home/dita-ot/dita-ot/dita-ot3694115554532688136/ot-output/html5-bootstrap/css
 
 html5.copy-css-user:
 
